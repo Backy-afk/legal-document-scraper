@@ -4,7 +4,7 @@ import csv
 import os
 
 # SETTINGS
-pdf_folder = r"C:\Users\bella\Downloads\compressed"      # Folder containing all your PDFs
+pdf_folder = r"C:\Users\BACKY\Downloads\FILENAME"      # Folder containing all your PDFs
 output_csv = "legal_cases_with_sources.csv"
 
 # More comprehensive regex for case names
@@ -103,5 +103,6 @@ with open(output_csv, mode="w", newline="", encoding="utf-8") as f:
     writer.writerow(["Case Name", "Explanation", "Source PDF"])
     for case_name, explanation, source_pdf in unique_cases:
         writer.writerow([case_name, explanation, source_pdf])
+
 
 print(f"Done! Found {len(unique_cases)} unique cases saved to '{output_csv}'.")

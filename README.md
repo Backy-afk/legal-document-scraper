@@ -27,3 +27,6 @@ A comprehensive Python toolkit for extracting legal cases, definitions, and stud
 ### Installation
 ```bash
 pip install PyMuPDF reportlab
+
+
+IF you have any questions or need any help please contact me via discord: boofu12

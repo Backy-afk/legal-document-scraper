@@ -30,3 +30,5 @@ pip install PyMuPDF reportlab
 
 
 IF you have any questions or need any help please contact me via discord: boofu12
+if you would like to support me via donations
+Bitcoin address: bc1qauyrlg43dxf2deeg6fsr40v4lusjaysd93ztvw

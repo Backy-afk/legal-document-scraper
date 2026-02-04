@@ -1,5 +1,5 @@
 # 📚 Legal Document Scraper & Study Toolkit
-
+PLEASE BE AWARE THAT THIS IS NOT PERFECT, IT WILL MAKE MISTAKES. THEREFORE PLEASE REVIEW THE FILES YOU GET!!!!
 A comprehensive Python toolkit for extracting legal cases, definitions, and study materials from PDF documents. Perfect for law students, researchers, and legal professionals.
 
 ## ✨ Features
@@ -32,3 +32,6 @@ pip install PyMuPDF reportlab
 IF you have any questions or need any help please contact me via discord: boofu12
 if you would like to support me via donations
 Bitcoin address: bc1qauyrlg43dxf2deeg6fsr40v4lusjaysd93ztvw
+
+
+

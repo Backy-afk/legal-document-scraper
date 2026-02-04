@@ -4,7 +4,7 @@ import csv
 import os
 
 # SETTINGS
-pdf_folder = r"C:\Users\bella\Downloads\compressed"      # Folder containing all your PDFs
+pdf_folder = r"C:\Users\BACKY\Downloads\YOUR-FILE-NAME"      # Folder containing all your PDFs
 output_csv = "structured_definitions.csv"
 
 def clean_text(text):
